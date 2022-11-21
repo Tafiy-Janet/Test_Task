@@ -1,0 +1,2 @@
+endpoint,schema pass
+/api/starships/9/,src/test/resources/schema.json
